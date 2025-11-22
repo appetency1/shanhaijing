@@ -1,0 +1,84 @@
+[
+  {
+    "id": "1",
+    "name": "九尾狐",
+    "category": "南山经",
+    "desc": "这里是神兽的简短描述文案占位...",
+    "detailText": "这里是详细的古文或者长篇介绍...",
+    "tags": ["火", "飞行"],
+    "imageUrl": "/images/beasts/fox.png" 
+  },
+  {
+    "id": "2",
+    "name": "神兽名称占位-2",
+    "category": "西山经",
+    "desc": "暂无描述...",
+    "detailText": "暂无详情...",
+    "tags": ["水", "走兽"],
+    "imageUrl": "/images/beasts/qilin.png"
+  },
+
+  {
+    "id": "3",
+    "name": "",
+    "category": "",
+    "desc": "",
+    "detailText": "",
+    "tags": ["", ""],
+    "imageUrl": "/images/beasts/kui.png"
+  },
+  {
+    "id": "",
+    "name": "",
+    "category": "",
+    "desc": "",
+    "detailText": "",
+    "tags": ["", ""],
+    "imageUrl": "/images/beasts/qiongqi.png"
+  },
+  {
+    "id": "",
+    "name": "",
+    "category": "",
+    "desc": "",
+    "detailText": "",
+    "tags": ["", ""],
+    "imageUrl": "/images/beasts/yinglong.png"
+  },
+  {
+    "id": "",
+    "name": "",
+    "category": "",
+    "desc": "",
+    "detailText": "",
+    "tags": ["", ""],
+    "imageUrl": "/images/beasts/taoji.png"
+  },
+  {
+    "id": "",
+    "name": "",
+    "category": "",
+    "desc": "",
+    "detailText": "",
+    "tags": ["", ""],
+    "imageUrl": "/images/beasts/taotie.png"
+  },
+  {
+    "id": "",
+    "name": "",
+    "category": "",
+    "desc": "",
+    "detailText": "",
+    "tags": ["", ""],
+    "imageUrl": "/images/beasts/kun.png"
+  },
+  {
+    "id": "",
+    "name": "",
+    "category": "",
+    "desc": "",
+    "detailText": "",
+    "tags": ["", ""],
+    "imageUrl": "/images/beasts/fenghuang.png"
+  }
+]
