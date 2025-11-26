@@ -38,12 +38,24 @@ const filteredBeasts = computed(() => {
 </script>
 
 <template>
-  <div class="min-h-screen bg-[#0f0f0f] text-gray-200 pb-20">
+  <div class="relative min-h-screen bg-[#050507] text-gray-200 pb-20 overflow-hidden">
+
+    <!-- 背景图层 -->
+    <div class="fixed inset-0 -z-10">
+      <div
+        class="absolute inset-0 bg-cover bg-center scale-110"
+        style="background-image: url('/images/backgrounds/geography.jpg'); filter: saturate(0.82);"
+      ></div>
+      <div class="absolute inset-0 bg-gradient-to-b from-black/85 via-black/55 to-black/90"></div>
+      <div
+        class="absolute inset-0 opacity-80 mix-blend-screen bg-[radial-gradient(circle_at_20%_25%,rgba(248,113,113,0.18),transparent_42%),radial-gradient(circle_at_80%_72%,rgba(59,130,246,0.12),transparent_40%),radial-gradient(circle_at_50%_6%,rgba(255,255,255,0.08),transparent_55%)]"
+      ></div>
+    </div>
 
     <!-- 噪点背景 -->
     <div
       class="fixed inset-0 opacity-20 pointer-events-none"
-      style="background-image: url('https://grainy-gradients.vercel.app/noise.svg');"
+      style="background-image: url('/images/backgrounds/geography.jpg');"
     ></div>
 
     <!-- 顶部标题 -->

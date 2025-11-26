@@ -30,8 +30,8 @@ onMounted(() => {
     <!-- 顶部导航 -->
     <div class="flex justify-between items-center mb-12 max-w-6xl mx-auto">
       <h2 class="text-3xl font-shanhai text-stone-200">百妖谱</h2>
-      <router-link to="/home" class="text-stone-500 hover:text-white font-shanhai">返回</router-link>    
-</div>
+      <router-link to="/home" class="text-stone-500 hover:text-white font-shanhai">返回</router-link>
+    </div>
 
     <!-- 图鉴网格 -->
     <div class="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-6 gap-6 max-w-6xl mx-auto">

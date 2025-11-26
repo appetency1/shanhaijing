@@ -330,7 +330,7 @@ onBeforeUnmount(() => {
       <div class="absolute inset-0 -z-10 overflow-hidden">
         <div
           class="absolute inset-0 bg-cover bg-center opacity-70"
-          style="background-image: url('/images/backgrounds/fox-bg.jpg');"
+          style="background-image: url('/images/backgrounds/beast-jiuweihu.jpg');"
         ></div>
         <div class="absolute inset-0 bg-gradient-to-b from-black/80 via-black/35 to-black"></div>
       </div>
@@ -350,7 +350,7 @@ onBeforeUnmount(() => {
         <div class="flex-1 flex items-center justify-center">
           <div class="relative w-full max-w-md">
             <div class="relative aspect-[3/4] overflow-hidden bg-transparent">
-              <img src="/public/images/beasts/fox.png" alt="九尾狐" class="w-full h-full object-cover" />
+              <img src="/images/beasts/fox.png" alt="九尾狐" class="w-full h-full object-cover" />
               <div class="absolute inset-0 pointer-events-none bg-gradient-to-t from-black/80 via-transparent to-transparent"></div>
               <div class="absolute inset-x-0 bottom-0 h-1/3 pointer-events-none bg-gradient-to-t from-black via-transparent to-transparent"></div>
               <div
@@ -360,7 +360,7 @@ onBeforeUnmount(() => {
             </div>
 
             <div class="mt-3 h-24 relative overflow-hidden">
-              <img src="/public/images/beasts/fox.png" alt="九尾狐镜像" class="w-full h-full object-cover scale-y-[-1]" />
+              <img src="/images/beasts/fox.png" alt="九尾狐镜像" class="w-full h-full object-cover scale-y-[-1]" />
               <div class="absolute inset-0 pointer-events-none" style="background: linear-gradient(to bottom, rgba(5,5,7,0.6), rgba(5,5,7,1));"></div>
               <div
                 class="absolute inset-0 pointer-events-none"
@@ -381,7 +381,7 @@ onBeforeUnmount(() => {
       <div class="absolute inset-0 -z-10 overflow-hidden">
         <div
           class="absolute inset-0 bg-cover bg-center opacity-70"
-          style="background-image: url('/images/backgrounds/taotie-bg.jpg');"
+          style="background-image: url('/images/backgrounds/beast-taotie.jpg');"
         ></div>
         <div class="absolute inset-0 bg-gradient-to-b from-black/85 via-black/40 to-black"></div>
       </div>
@@ -401,7 +401,7 @@ onBeforeUnmount(() => {
         <div class="flex-1 flex items-center justify-center">
           <div class="relative w-full max-w-md">
             <div class="relative aspect-[3/4] overflow-hidden bg-transparent">
-              <img src="/public/images/beasts/qilin.png" alt="饕餮" class="w-full h-full object-cover" />
+              <img src="/images/beasts/taotie.png" alt="饕餮" class="w-full h-full object-cover" />
               <div class="absolute inset-0 pointer-events-none bg-gradient-to-t from-black/80 via-transparent to-transparent"></div>
               <div class="absolute inset-x-0 bottom-0 h-1/3 pointer-events-none bg-gradient-to-t from-black via-transparent to-transparent"></div>
               <div
@@ -411,7 +411,7 @@ onBeforeUnmount(() => {
             </div>
 
             <div class="mt-3 h-24 relative overflow-hidden">
-              <img src="/public/images/beasts/qilin.png" alt="饕餮镜像" class="w-full h-full object-cover scale-y-[-1]" />
+              <img src="/images/beasts/taotie.png" alt="饕餮镜像" class="w-full h-full object-cover scale-y-[-1]" />
               <div class="absolute inset-0 pointer-events-none" style="background: linear-gradient(to bottom, rgba(5,5,7,0.6), rgba(5,5,7,1));"></div>
               <div
                 class="absolute inset-0 pointer-events-none"
@@ -432,7 +432,7 @@ onBeforeUnmount(() => {
       <div class="absolute inset-0 -z-10 overflow-hidden">
         <div
           class="absolute inset-0 bg-cover bg-center opacity-70"
-          style="background-image: url('/images/backgrounds/yinglong-bg.jpg');"
+          style="background-image: url('/images/beasts/yinglong1.png');"
         ></div>
         <div class="absolute inset-0 bg-gradient-to-b from-black/80 via-black/35 to-black"></div>
       </div>
@@ -452,7 +452,7 @@ onBeforeUnmount(() => {
         <div class="flex-1 flex items-center justify-center">
           <div class="relative w-full max-w-md">
             <div class="relative aspect-[3/4] overflow-hidden bg-transparent">
-              <img src="/public/images/beasts/kui.png" alt="應龍" class="w-full h-full object-cover" />
+              <img src="/images/beasts/yinglong1.png" alt="應龍" class="w-full h-full object-cover" />
               <div class="absolute inset-0 pointer-events-none bg-gradient-to-t from-black/80 via-transparent to-transparent"></div>
               <div class="absolute inset-x-0 bottom-0 h-1/3 pointer-events-none bg-gradient-to-t from-black via-transparent to-transparent"></div>
               <div
@@ -462,7 +462,7 @@ onBeforeUnmount(() => {
             </div>
 
             <div class="mt-3 h-24 relative overflow-hidden">
-              <img src="/public/images/beasts/kui.png" alt="應龍镜像" class="w-full h-full object-cover scale-y-[-1]" />
+              <img src="/images/beasts/yinglong1.png" alt="應龍镜像" class="w-full h-full object-cover scale-y-[-1]" />
               <div class="absolute inset-0 pointer-events-none" style="background: linear-gradient(to bottom, rgba(5,5,7,0.6), rgba(5,5,7,1));"></div>
               <div
                 class="absolute inset-0 pointer-events-none"
@@ -483,7 +483,7 @@ onBeforeUnmount(() => {
       <div class="absolute inset-0 -z-10 overflow-hidden">
         <div
           class="absolute inset-0 bg-cover bg-center opacity-70"
-          style="background-image: url('/images/backgrounds/ending-bg.jpg');"
+          style="background-image: url('/images/backgrounds/ending.jpg');"
         ></div>
         <div class="absolute inset-0 bg-gradient-to-b from-black/85 via-black/50 to-black"></div>
       </div>

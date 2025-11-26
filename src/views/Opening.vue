@@ -12,7 +12,12 @@ const playIntro = () => {
 
   const tl = gsap.timeline({
     defaults: { ease: 'power3.out' },
-    onComplete: () => router.push('/home')
+    onComplete: () => {
+      if (typeof window !== 'undefined') {
+        window.localStorage.setItem('shanhai:intro-played', 'true')
+      }
+      router.push('/home')
+    }
   })
 
   tl.to('.opening-rings', {
