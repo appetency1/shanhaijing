@@ -117,7 +117,7 @@ const filteredBeasts = computed(() => {
     <!-- 返回首页 -->
     <div class="fixed bottom-8 right-8 z-50">
       <router-link
-        to="/"
+        to="/home"
         class="flex items-center justify-center w-12 h-12 rounded-full bg-red-900/80 text-white hover:bg-red-700 transition shadow-lg border border-red-800 hover:scale-110"
       >
         <span class="font-shanhai text-sm">回</span>

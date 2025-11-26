@@ -137,7 +137,7 @@ const reset = () => {
     </div>
     
     <!-- 返回首页 -->
-    <router-link to="/" class="absolute bottom-10 text-stone-700 hover:text-stone-400 font-shanhai text-2xl transition-colors z-50">
+    <router-link to="/home" class="absolute bottom-10 text-stone-700 hover:text-stone-400 font-shanhai text-2xl transition-colors z-50">
       ×
     </router-link>
   </div>

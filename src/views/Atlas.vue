@@ -240,7 +240,7 @@ onMounted(() => {
     <!-- 左下返回 / 右下去五藏山经 -->
     <div class="fixed bottom-6 left-6 z-20 flex gap-3">
       <router-link
-        to="/"
+        to="/home"
         class="flex items-center justify-center w-10 h-10 rounded-full bg-stone-900/80 border border-stone-700 text-stone-200 hover:bg-stone-800 hover:scale-110 transition"
       >
         <span class="font-shanhai text-sm">回</span>
